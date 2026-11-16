@@ -24,9 +24,10 @@ nav ul{
     padding: 0;
 }
 
-nav ul li{
+nav ul li a{
     display: inline;
     margin-right: 15px;
+    color: #17232F;
 }
 
 main{
