@@ -30,13 +30,12 @@ nav ul li{
 }
 
 main{
-    width: calc(100%-20px
-    )
+    width: calc(100% - 40px)
 }
 
 section{
-    display: flex;
-    flex-direction: column;
+     display: flex;
+    flex-direction: row;
 }
 
 article{
