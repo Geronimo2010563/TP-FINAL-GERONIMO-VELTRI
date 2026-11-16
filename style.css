@@ -1,6 +1,6 @@
 body{
     background-color: #171D25;
-    color: #D9E0E7;
+    color: #494a4b;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -9,13 +9,13 @@ body{
 header, nav, main, footer{
     padding: 20px;
     margin: 10px;
-    background-color: white;
+    background-color: rgb(199, 197, 197);
     border-radius: 5px;
 }
 
 header{
     background-color:#17232F ;
-    color: white;
+    color: rgb(34, 32, 32);
     text-align: center;
 }
 
@@ -68,7 +68,7 @@ img{
 }
 
 nav a{
-    color: white;
+    color: rgb(68, 66, 66);
     text-decoration: none;
     margin: 15px;
     font-weight: bold;
