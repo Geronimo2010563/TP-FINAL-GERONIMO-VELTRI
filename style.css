@@ -68,9 +68,13 @@ img{
 }
 
 nav a{
-    color: rgb(68, 66, 66);
+    color: #17232F;
     text-decoration: none;
     margin: 15px;
     font-weight: bold;
+}
+
+h1 h2 h3{
+    color: #17232F;
 }
 
