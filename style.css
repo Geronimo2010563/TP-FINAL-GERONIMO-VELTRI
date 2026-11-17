@@ -55,6 +55,11 @@ article img{
     height: auto;
 }
 
+header img{
+    width: 100px;
+    height: auto;
+}
+
 footer{
     text-align: center;
     font-size: large;
