@@ -1,7 +1,7 @@
 body{
     background-color: #171D25;
     color: #494a4b;
-    font-family: Arial, sans-serif;
+    font-family: arial, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -14,7 +14,7 @@ header, nav, main, footer{
 }
 
 header{
-    background-color:#17232F;
+    background-color: #17232F;
     color: white;
     text-align: center;
 }
@@ -51,11 +51,6 @@ article{
 }
 
 article img{
-    width: 300px;
-    height: auto;
-}
-
-header img{
     width: 100px;
     height: auto;
 }
@@ -64,7 +59,7 @@ footer{
     text-align: center;
     font-size: large;
     color: white;
-    background-color: #17232F;
+    background-color:#17232F;
 }
 
 img{
@@ -86,4 +81,3 @@ h1, h2, h3{
 p{
     color: #111111;
 }
-
