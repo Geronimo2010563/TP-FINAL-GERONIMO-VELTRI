@@ -1,7 +1,7 @@
 body{
     background-color: #171D25;
     color: #494a4b;
-    font-family: arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -14,7 +14,7 @@ header, nav, main, footer{
 }
 
 header{
-    background-color: #17232F;
+    background-color:#17232F;
     color: white;
     text-align: center;
 }
@@ -64,7 +64,7 @@ footer{
     text-align: center;
     font-size: large;
     color: white;
-    background-color:#17232F;
+    background-color: #17232F;
 }
 
 img{
